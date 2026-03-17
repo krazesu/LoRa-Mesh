@@ -1,6 +1,6 @@
 /*
   Project: LoRa Mesh Sensor Network for Air Quality and Exposure Data in Jeepneys  
-  Author: Urmeneta, Kriz Greg & Abello, Charles Wincel
+  Author: Urmeneta, Kriz Greg
   Device: Gateway Node
   Hardware:
     -NodeMCU ESP8266
